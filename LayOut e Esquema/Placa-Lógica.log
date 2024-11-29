@@ -1,0 +1,13 @@
+# Writing all output to: C:\Users\danie\Desktop\Projetos Eletr??nica\Microcontrolador Atmega\Atmega 328P - Projeto Climatizador\LayOut e Esquema\Placa-L??gica.log
+Wire to Wire Clearance is too small
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
