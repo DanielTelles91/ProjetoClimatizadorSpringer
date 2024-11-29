@@ -1,0 +1,13 @@
+Velocidade: 371A3C86
+
+Power: A32AB931
+
+Ion: 4EA240AE
+
+Umidificador: 143226DB
+
+Timer: E0984BB6
+
+Oscilador: 4E87E0AB
+
+Led Reservatório: 39D41DC6
