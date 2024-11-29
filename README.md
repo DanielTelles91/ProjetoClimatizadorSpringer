@@ -23,4 +23,6 @@ Principais Recursos:
 -> Função Ionizar com Led indicativo.
 
 
+![image info](Fotos/1.png)
+![image info](Fotos/2.png)
 
